@@ -6,4 +6,4 @@
 
 **2_Convolutional Neural Networks in Computer Vision:**
 
-**2__basic convolution on a 2D grayscale image:**
+**2__Basic convolution on a 2D grayscale image:**
