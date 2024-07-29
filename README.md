@@ -15,3 +15,5 @@ how convolution filters and max pooling work with a photo example
 **3_Computer Vision with Real-world Images**\
 how to use Image Generator to label images, normalize the image, understand its parameters, how it helps remove some convolutions to handle smaller images, and what overfitting is
 
+**4_C_V with Real-world Images(Cats vs Dogs Dataset)**\
+to do this, use the famous Kaggle Dogs v Cats dataset and create a convolutional neural network in Tensorflow and use Keras image preprocessing utilities such as flow_from_directory on ImageDataGenerator. It also discusses how to access the accuracy and loss values, showing how these parameters change during model training, which resulted in the discovery of model overfitting.
