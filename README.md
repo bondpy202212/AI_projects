@@ -21,3 +21,6 @@ to do this, use the famous Kaggle Dogs v Cats dataset and create a convolutional
 **5_CNN Tackle Overfitting with Data Augmentation(Cats vs Dogs Dataset):**
 how to avoid overfitting with augmentation, how to use image augmentation with imageDataGenereato use image augmentation, how image augmentation helps to solve overfitting problem, effectively simulates having a larger dataset to train with image augmentation.
 
+**6_Transfer Learning(Cats vs Dogs Dataset):**
+sefulness of transfer learning, use of the dropout parameter, how you can change the number of model classes, block or freeze the layer from overfitting, avoid overfitting with dropouts
+
