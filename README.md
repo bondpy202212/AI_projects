@@ -18,9 +18,9 @@ how to use Image Generator to label images, normalize the image, understand its 
 **4_CNN_in_CV with Real-world Images(Cats vs Dogs Dataset):**\
 to do this, use the famous Kaggle Dogs v Cats dataset and create a convolutional neural network in Tensorflow and use Keras image preprocessing utilities such as flow_from_directory on ImageDataGenerator. It also discusses how to access the accuracy and loss values, showing how these parameters change during model training, which resulted in the discovery of model overfitting.
 
-**5_CNN Tackle Overfitting with Data Augmentation(Cats vs Dogs Dataset):**
+**5_CNN Tackle Overfitting with Data Augmentation(Cats vs Dogs Dataset):**\
 how to avoid overfitting with augmentation, how to use image augmentation with imageDataGenereato use image augmentation, how image augmentation helps to solve overfitting problem, effectively simulates having a larger dataset to train with image augmentation.
 
-**6_Transfer Learning(Cats vs Dogs Dataset):**
+**6_Transfer Learning(Cats vs Dogs Dataset):**\
 sefulness of transfer learning, use of the dropout parameter, how you can change the number of model classes, block or freeze the layer from overfitting, avoid overfitting with dropouts
 
