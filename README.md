@@ -33,5 +33,14 @@ using the Sign Language MNIST dataset, which contains 28x28 images of hands depi
 **8_Tokenizing the BBC News archive(Kaggle):**\ 
 how object is used, sentence tokenization method, sentence list encoding method, specifying token for unknown words, padding to the sequence.
 
-**8__Tokenizing the Sarcasm Dataset(Kaggle News Headlines):** 
+**8__Tokenizing the Sarcasm Dataset(Kaggle News Headlines):**\
 similar "8_Tokenizing the BBC News archive(Kaggle)".
+
+**9___Embeddings the Sarcasm Dataset(Kaggle News Headlines):**\ 
+build a train a model on a binary classifier with the the News Headlines Dataset for Sarcasm Detection Dataset, model using functions Embedding(), GlobalAveragePooling1D() in the context of natural language processing (NLP)
+
+**9__Subword_Tokenization_with_the_IMDB_Reviews_Dataset:**\
+similar "9___Embeddings the Sarcasm Dataset(Kaggle News Headlines)" but model using subword text encoding with the IMDB Reviews Dataset 
+
+**9_Embeddings_the_BBC_News_archive(Kaggle):**\
+similar "9___Embeddings the Sarcasm Dataset(Kaggle News Headlines)" but model using the BBC News Classification Dataset 
