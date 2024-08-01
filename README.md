@@ -29,3 +29,9 @@ similar "6_Transfer Learning(Cats vs Dogs Dataset) but using "horse-or-human" da
 
 **7_Multi-class Classification(images of hands of the english alphabet):**\
 using the Sign Language MNIST dataset, which contains 28x28 images of hands depicting the 26 letters of the english alphabet, a Convolution, Deep Neurol Network(DNN) for Fashion MNIST have 10 output neurons.
+
+**8_Tokenizing the BBC News archive(Kaggle):**\ 
+how object is used, sentence tokenization method, sentence list encoding method, specifying token for unknown words, padding to the sequence.
+
+**8__Tokenizing the Sarcasm Dataset(Kaggle News Headlines):** 
+similar "8_Tokenizing the BBC News archive(Kaggle)".
