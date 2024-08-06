@@ -45,10 +45,10 @@ similar "9___NLP the Sarcasm Dataset(Kaggle News Headlines)" but model using sub
 **9_NLP the BBC News archive(Kaggle):**\
 similar "9___NLP the Sarcasm Dataset(Kaggle News Headlines)" but model using the BBC News Classification Dataset 
 
-**10___NLP Models with_GRU_LSTM_Conv1D IMDB Reviews Dataset:**\ 
+**10___NLP Models with_GRU_LSTM_Conv1D IMDB Reviews Dataset:**\
 Large Movie Review Dataset IMDB with models Keras' layers Flatten(), LSTM(long-short-term-memory), GRU(Gated Recurrent Unit), Conv1D(onvolutional neural networks (CNNs) for one-dimensional input data),how sequence make order the words for their impact on the meaning of the sentence, Recurrent Neural Networks help understand the impact of sequence on meaning, LSTM help understand meaning words, Bidirectional () keras layer type allows LSTMs to look forward and backward in a sentence.
 
-**10__NLP Models with_LSTM_Conv1D Sarcasm_Dataset(Kaggle_News_Headlines):**\ 
+**10__NLP Models with_LSTM_Conv1D Sarcasm_Dataset(Kaggle_News_Headlines):**\
 similar "10___NLP Models with_GRU_LSTM_Conv1D IMDB Reviews Dataset" but using the Sarcasm Dataset(Kaggle News Headlines) with  models Keras' layers LSTM, Conv1D()
 
 **10_NLP avoid Overfitting(Sentiment140 dataset):**\
