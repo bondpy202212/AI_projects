@@ -36,13 +36,13 @@ how object is used, sentence tokenization method, sentence list encoding method,
 **8__Tokenizing the Sarcasm Dataset(Kaggle News Headlines):**\
 similar "8_Tokenizing the BBC News archive(Kaggle)".
 
-**9___NLP the Sarcasm Dataset(Kaggle News Headlines):**\
+**9_NLP the Sarcasm Dataset(Kaggle News Headlines):**\
 build a train a model on a binary classifier with the the News Headlines Dataset for Sarcasm Detection Dataset, model using functions Embedding(), GlobalAveragePooling1D() in the context of natural language processing (NLP)
 
 **9__NLP Subword Tokenization with the IMDB Reviews Dataset:**\
 similar "9___NLP the Sarcasm Dataset(Kaggle News Headlines)" but model using subword text encoding with the IMDB Reviews Dataset 
 
-**9_NLP the BBC News archive(Kaggle):**\
+**9___NLP the BBC News archive(Kaggle):**\
 similar "9___NLP the Sarcasm Dataset(Kaggle News Headlines)" but model using the BBC News Classification Dataset 
 
 **10___NLP Models with_GRU_LSTM_Conv1D IMDB Reviews Dataset:**\
