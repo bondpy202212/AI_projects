@@ -40,17 +40,17 @@ similar "8_Tokenizing the BBC News archive(Kaggle)".
 build a train a model on a binary classifier with the the News Headlines Dataset for Sarcasm Detection Dataset, model using functions Embedding(), GlobalAveragePooling1D() in the context of natural language processing (NLP)
 
 **9__NLP Subword Tokenization with the IMDB Reviews Dataset:**\
-similar "9___NLP the Sarcasm Dataset(Kaggle News Headlines)" but model using subword text encoding with the IMDB Reviews Dataset 
+similar "9_NLP the Sarcasm Dataset(Kaggle News Headlines)" but model using subword text encoding with the IMDB Reviews Dataset 
 
 **9___NLP the BBC News archive(Kaggle):**\
-similar "9___NLP the Sarcasm Dataset(Kaggle News Headlines)" but model using the BBC News Classification Dataset 
+similar "9_NLP the Sarcasm Dataset(Kaggle News Headlines)" but model using the BBC News Classification Dataset 
 
-**10___NLP Models with_GRU_LSTM_Conv1D IMDB Reviews Dataset:**\
+**10_NLP Models with_GRU_LSTM_Conv1D IMDB Reviews Dataset:**\
 Large Movie Review Dataset IMDB with models Keras' layers Flatten(), LSTM(long-short-term-memory), GRU(Gated Recurrent Unit), Conv1D(onvolutional neural networks (CNNs) for one-dimensional input data),how sequence make order the words for their impact on the meaning of the sentence, Recurrent Neural Networks help understand the impact of sequence on meaning, LSTM help understand meaning words, Bidirectional () keras layer type allows LSTMs to look forward and backward in a sentence.
 
 **10__NLP Models with_LSTM_Conv1D Sarcasm_Dataset(Kaggle_News_Headlines):**\
-similar "10___NLP Models with_GRU_LSTM_Conv1D IMDB Reviews Dataset" but using the Sarcasm Dataset(Kaggle News Headlines) with  models Keras' layers LSTM, Conv1D()
+similar "10_NLP Models with_GRU_LSTM_Conv1D IMDB Reviews Dataset" but using the Sarcasm Dataset(Kaggle News Headlines) with  models Keras' layers LSTM, Conv1D()
 
-**10_NLP avoid Overfitting(Sentiment140 dataset):**\
-similar "10___NLP Models with_GRU_LSTM_Conv1D IMDB Reviews Dataset" but using the Sentiment140 dataset with  models Keras' layers Conv1D()
+**10___NLP avoid Overfitting(Sentiment140 dataset):**\
+similar "10_NLP Models with_GRU_LSTM_Conv1D IMDB Reviews Dataset" but using the Sentiment140 dataset with  models Keras' layers Conv1D()
 
